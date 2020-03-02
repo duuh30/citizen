@@ -1,3 +1,10 @@
+Para desenvolvimento deste projeto foi utilizado:
+Framework : Laravel 5.5
+PHP : Version 7.0
+Composer.
+
+Por precisar realizar cadastros utilizando Commands, escolhi o laravel por ter suporte a uma api command bem intuitiva de ser utilizar.
+
 ## Requeriments
 <pre>
 PHP >= 7.0
