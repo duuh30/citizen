@@ -27,7 +27,7 @@ Some like that:
 # /path/clone-repository/.env.example
 </pre>
 
-##Artisan Generate Key
+## Artisan Generate Key
 <pre>
 php artisan key:generate
 </pre>
@@ -46,4 +46,11 @@ composer start
 <small>Starting server and clear laravel cache</small>
 </pre>
 Access http://localhost:8000! is a ready.
+
+## Create citizen by command
+Run this command on the terminal
+<pre>
+cd /path/clone-repository
+php artisan citizen:create
+</pre>
 
