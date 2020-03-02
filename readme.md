@@ -37,6 +37,13 @@ php artisan key:generate
 <a href="https://documenter.getpostman.com/view/4843761/SzKZtGr8?version=latest">View Collection</a>
 </pre>
 
+## Create citizen by command
+Run this command on the terminal
+<pre>
+cd /path/clone-repository
+php artisan citizen:create
+</pre>
+
 ## API Ready!
 
 Now, you can start the API
@@ -47,10 +54,4 @@ composer start
 </pre>
 Access http://localhost:8000! is a ready.
 
-## Create citizen by command
-Run this command on the terminal
-<pre>
-cd /path/clone-repository
-php artisan citizen:create
-</pre>
 
