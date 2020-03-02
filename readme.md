@@ -32,6 +32,13 @@ Some like that:
 php artisan key:generate
 </pre>
 
+
+## Migrations
+Run this command in your project's terminal to create the tables from migrations
+<pre>
+php artisan migrate
+</pre>
+
 ## Collection
 <pre>
 <a href="https://documenter.getpostman.com/view/4843761/SzKZtGr8?version=latest">View Collection</a>
